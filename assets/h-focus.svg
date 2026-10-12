@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 56" role="img" aria-label="Чем занимаюсь">
+  <title>Чем занимаюсь</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7A6AF0"/>
+      <stop offset="1" stop-color="#2BA89F"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7A6AF0" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#2BA89F" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <circle cx="8" cy="26" r="5" fill="none" stroke="url(#g)" stroke-width="2"/>
+  <rect x="13" y="25" width="23" height="2" rx="1" fill="url(#g)"/>
+  <text x="48" y="36" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif" font-size="28" font-style="italic" fill="url(#g)">Чем занимаюсь</text>
+  <rect x="0" y="50" width="800" height="1.2" fill="url(#rule)"/>
+</svg>
