@@ -7,51 +7,54 @@
   <a href="mailto:petrovskiy@mail.ru"><img src="https://img.shields.io/badge/Mail.ru-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email"></a>
 </div>
 
-<br>
+---
 
-## ⚡ Обо мне
+### Обо мне
 
 Магистрант УрФУ («Математическое обеспечение и администрирование ИС»). Имею опыт коммерческой разработки в телекоме. Мне интересно место, где **серверная часть, языковые модели и сети собираются в одну надежную систему**.
 
-> *Хорошая система тихая. Её не замечают, пока она работает, и быстро находят причину, когда что-то идёт не так. Начинаю с простой схемы, проверяю её на реальных данных и усложняю только тогда, когда без этого не обойтись.*
+> *Хорошая система тихая. Её не замечают, пока она работает, и быстро находят причину, когда что-то идёт не так.*
+>
+> *Начинаю с простой схемы, проверяю её на реальных данных и усложняю только тогда, когда без этого не обойтись.*
 
-<br>
+---
 
-## 🎯 Чем занимаюсь
+### Направления работы
 
-*   ⚙️ **Серверная разработка:** Проектирую и пишу бекенд: данные, интеграции и логику, на которую можно положиться.
-*   🧠 **Прикладной ИИ:** Встраиваю языковые модели (LLM) в рабочие процессы там, где они реально экономят время, а не создают новую работу.
-*   🌐 **Сетевая инфраструктура:** Строю и настраиваю сети: от топологии и маршрутизации до проверки отказоустойчивости (failover).
+* **Серверная разработка.** Проектирую и пишу серверную часть: данные, интеграции и логику, на которую можно положиться.
+* **Прикладной ИИ.** Встраиваю языковые модели в рабочие процессы там, где они экономят время, а не создают новую работу.
+* **Сетевая инфраструктура.** Строю и настраиваю сети: от схемы и маршрутизации до проверки, что всё продолжает работать после отказа одного звена.
 
-<br>
+---
 
-## 💻 Технологический стек
+### Технологический стек
 
 **Backend & ML:**
 <br>
-<!-- Замени иконки на свои реальные технологии. Я добавил примеры для твоего стека -->
 <img src="https://skillicons.dev/icons?i=py,go,docker,linux,postgres,nginx,bash&theme=dark" />
+
+<br>
 
 **Инструменты & Сети:**
 <br>
 <img src="https://skillicons.dev/icons?i=git,github,ansible,grafana,prometheus&theme=dark" />
 
-<br>
+---
 
-## 📊 Статистика кода
+### Статистика кода
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=petrovskiyvv&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&locale=ru" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=petrovskiyvv&theme=radical&hide_border=true&locale=ru" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=petrovskiyvv&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&locale=ru" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=petrovskiyvv&theme=radical&hide_border=true&locale=ru" height="165" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrovskiyvv&layout=compact&theme=radical&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrovskiyvv&layout=compact&theme=radical&hide_border=true" height="165" />
 </div>
 
-<br>
+---
 
-## 🐍 Активность
+### Активность
 
 <div align="center">
   <picture>
