@@ -1,25 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8FA9A0,100:5E7A94&height=170&section=header&text=Владислав%20Петровский&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=разработка%20·%20ИИ%20·%20сети&descSize=16&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:4361EE,100:2CB67D&height=190&section=header&text=Vladislav%20Petrovskiy&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Backend%20%7C%20LLM%20%7C%20Networks&descSize=18&descAlignY=60" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3500&pause=1200&color=5E7A94&center=true&vCenter=true&width=520&lines=Backend+и+LLM-приложения;Сети+и+инфраструктура;Учусь+делать+так,+чтобы+работало+спокойно" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&duration=3500&pause=1200&color=7F5AF0&center=true&vCenter=true&width=560&lines=Backend+и+LLM-приложения;Сети:+MikroTik,+Huawei,+IS-IS;Автоматизирую+всё,+что+можно+автоматизировать" />
 
 </div>
 
 <br/>
 
-### О себе
+### 👋 Обо мне
 Магистрант УрФУ (МОАИС). Пишу backend и приложения на базе LLM (LangChain, LangGraph), собираю сети на MikroTik и Huawei. Работал с PHP и SQL: делал систему учёта загрузки сотрудников по задачам в Redmine.
 
-### Стек
+### 🧰 Стек
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,php,java,cpp,cs,flutter,linux,docker,git,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,php,java,cs,dart,flutter,linux,docker,git,mysql&theme=dark" />
 </div>
 
-### Статистика
+### 📈 Активность
 <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=petrovskiyvv&show_icons=true&theme=transparent&title_color=5E7A94&text_color=8B949E&icon_color=8FA9A0&hide_border=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrovskiyvv&layout=compact&theme=transparent&title_color=5E7A94&text_color=8B949E&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=petrovskiyvv&theme=transparent&hide_border=true&ring=7F5AF0&fire=2CB67D&currStreakLabel=7F5AF0&currStreakNum=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=94A3B8&stroke=334155" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E7A94,100:8FA9A0&height=90&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,50:4361EE,100:7F5AF0&height=100&section=footer" width="100%" />
